@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Прошлая Неделя | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <atom:link href="https://example.com/tags/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Прошлая Неделя</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Прошлая Неделя</title>
+      <link>https://example.com/tags/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+    </image>
+    
+    <item>
+      <title>Прошлая неделя и идеальная чашка кофе</title>
+      <link>https://example.com/post/last-week/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week/</guid>
+      <description>&lt;p&gt;Приветствую всех! Прошлая неделя выдалась насыщенной, но запомнилась она мне не только рабочими моментами, но и поиском идеальной чашки кофе. Да, я знаю, это может показаться мелочью, но для меня хороший кофе – это залог продуктивности и хорошего настроения.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Поиски идеала&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В начале недели я решил исследовать местные кофейни, чтобы найти то самое место, где варят кофе моей мечты.  Побывал в трех разных заведениях:&lt;/p&gt;
+&lt;p&gt;•   &lt;strong&gt;&amp;ldquo;Утренний Лучик&amp;rdquo;:&lt;/strong&gt; Стильное место, модная атмосфера, но кофе оказался слишком кислым для меня.
+•   &lt;strong&gt;&amp;ldquo;Старая Кофейня&amp;rdquo;:&lt;/strong&gt; Уютно, тепло, пахнет выпечкой, но кофе&amp;hellip; никакой искры. Просто крепкий, бодрящий, но без души.
+•   &lt;strong&gt;&amp;ldquo;Кофе с Совой&amp;rdquo;:&lt;/strong&gt; И вот тут я, кажется, нашел то, что искал!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Кофе с Совой&amp;rdquo; - это любовь!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Эта небольшая кофейня оказалась настоящей находкой. Приветливый бариста, знающий свое дело, приятная музыка и&amp;hellip; волшебный аромат кофе.  Я заказал капучино и был поражен: идеальная температура, нежная пенка, насыщенный вкус и приятное послевкусие.  Это был не просто кофе, а целая церемония.&lt;/p&gt;
+&lt;p&gt;Что же сделало этот капучино особенным? Возможно, свежеобжаренные зерна, а может, секретный ингредиент бариста. В любом случае, я обязательно вернусь туда снова!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Вывод:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Прошлая неделя научила меня ценить маленькие радости жизни, такие как идеальная чашка кофе.  Иногда стоит потратить время на поиски, чтобы найти то, что приносит истинное удовольствие.&lt;/p&gt;
+&lt;p&gt;А у вас есть любимая кофейня? Поделитесь в комментариях!&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
